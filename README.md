@@ -1,7 +1,7 @@
 # My-Technical-Abilities
 <div align="center">
 
-# ⚡ [ YOUR NAME HERE ] ⚡
+# ⚡ [ AYUSH ZILE ] ⚡
 ### `Senior Distributed Systems & AI Infrastructure Engineer`
 
 ```gcode
